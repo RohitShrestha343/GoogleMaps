@@ -31,7 +31,6 @@ private Button btnsearch;
 private List<LatitudeLongtitude>latitudeLongtitudeList;
 Marker markerName;
 CameraUpdate center,zoom;
-String focus;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
